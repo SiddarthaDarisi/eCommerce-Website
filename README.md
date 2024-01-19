@@ -1,4 +1,4 @@
-<h2>React and Java E-Commerce Website (Furniture)</h2>h2>
+<h2>React and Java E-Commerce Website (Furniture)</h2>
 Overview
 This project is an e-commerce website focused on furniture sales. It's built with React for the frontend and Java for the backend. The website features user authentication, a product catalog, a comparison tool, a shopping cart, and a secure payment system.
 
