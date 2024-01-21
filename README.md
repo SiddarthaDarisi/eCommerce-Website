@@ -4,7 +4,7 @@ This project is an e-commerce website focused on furniture sales. It's built wit
 
 <h2>Features</h2>
 
-<h3>Frontend (React)</h3>
+<h3>Frontend (React) with Vite</h3>
 <strong>Home Page:</strong> A welcoming interface with highlights of featured products and promotions.<br/>
 <strong>Shop:</strong> Browse and filter the extensive range of furniture products.<br/>
 <strong>Product Comparison Page:</strong> Compare different products based on features, price, and ratings.<br/>
