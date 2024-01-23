@@ -22,3 +22,9 @@ This project is an e-commerce website focused on furniture sales. It's built wit
 <strong>Database Integration:</strong> Robust database management for storing user and product data.<br/>
 <strong>API for Product Comparison:</strong> Facilitates the comparison of different products.<br/>
 <strong>Blog Management:</strong> APIs for creating, editing, and deleting blog posts.<br/>
+
+
+
+To run the application, use the following command:
+
+`npm run dev`
