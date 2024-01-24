@@ -1,4 +1,3 @@
-import "./Hero.css";
 export const Hero = () => {
   return (
     <div className="background">
@@ -6,12 +5,15 @@ export const Hero = () => {
         <div className="hero container">
           <div className="hero-text-box">
             <p>New Arrival</p>
-            <h1 className="heading-primary">Discover Our New Collection</h1>
+            <h1 className="heading-primary">
+              Discover Our <br />
+              New Collection
+            </h1>
             <p className="hero-description">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Reprehenderit doloremque est vitae minima.
             </p>
-            <a href="#" className="btn btn--full margin-right-sm">
+            <a href="#" className="btn hero-btn--full">
               Buy Now
             </a>
           </div>
