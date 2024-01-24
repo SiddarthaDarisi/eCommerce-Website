@@ -137,8 +137,8 @@ p {
 
   position: relative;
   background-image: linear-gradient(
-      rgba(242, 243, 241, 0.2),
-      rgba(243, 243, 243, 0.2)
+      rgba(242, 243, 241, 0.1),
+      rgba(243, 243, 243, 0.1)
     ),
     url(assets/hero.png);
 
