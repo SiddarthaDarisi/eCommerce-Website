@@ -10,23 +10,23 @@ export const Navbar = () => {
       <nav className="main-nav">
         <ul className="main-nav-list">
           <li>
-            <a className="main-nav-link" href="#">
+            <a className="link" href="#">
               How it works
             </a>
           </li>
           <li>
-            <a className="main-nav-link" href="#">
+            <a className="link" href="#">
               Meals
             </a>
           </li>
 
           <li>
-            <a className="main-nav-link" href="#">
+            <a className="link" href="#">
               Pricing
             </a>
           </li>
           <li>
-            <a className="main-nav-link nav-cta" href="#">
+            <a className="link nav-cta" href="#">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
