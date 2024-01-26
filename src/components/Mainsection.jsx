@@ -1,6 +1,6 @@
-import Dining from "../assets/Images/Dining-room.png";
-import Bed from "../assets/Images/Bed-room.png";
-import Living from "../assets/Images/living-room.png";
+import Dining from "../assets/Images/Dining-room.webp";
+import Bed from "../assets/Images/Bed-room.webp";
+import Living from "../assets/Images/living-room.webp";
 export const MainSection = () => {
   return (
     <div className="Section-main">
@@ -17,7 +17,7 @@ export const MainSection = () => {
             <h3>Living</h3>
           </div>
           <div className="range-type">
-            <img className="range-image" alt="Bedroom picture" src={Dining} />
+            <img className="range-image" alt="Bedroom picture" src={Bed} />
             <h3>Bedroom</h3>
           </div>
         </div>
